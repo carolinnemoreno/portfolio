@@ -18,10 +18,7 @@ header{
 }
 a{
   text-decoration: none;
- 
-  
-  
- 
+
 }
 a:hover{
   color: purple;
@@ -38,14 +35,11 @@ font-size: 1.3rem;
 color:#9275A8;
 padding-left:15px;
 
-
 }
-
 
 .nav{
   display: flex;
   justify-content: center;
-  
   
 }
 .nav-list{
@@ -92,7 +86,7 @@ padding-left:15px;
   flex-direction: column;
   align-items: center;
   width:100%;
-  height: 100vh;
+  height: 90vh;
   margin-top: 0;
  border-bottom: 1px solid #3E0A66;
   
